@@ -1,5 +1,5 @@
 title: "44Net NIC"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "just-the-docs/just-the-docs"
 color_scheme: "dark"
 search_enabled: false
 ga_tracking: "G-JG5KG0842D"
