@@ -3,3 +3,12 @@ remote_theme: "just-the-docs/just-the-docs"
 color_scheme: "dark"
 search_enabled: false
 ga_tracking: "G-JG5KG0842D"
+
+permalink: pretty
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
