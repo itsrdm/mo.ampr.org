@@ -1,5 +1,5 @@
-remote_theme: just-the-docs/just-the-docs
-ga_tracking: G-JG5KG0842D
+remote_theme: "just-the-docs/just-the-docs"
+ga_tracking: "G-JG5KG0842D"
 permalink: pretty
 
 # Footer content
